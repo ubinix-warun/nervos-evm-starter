@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+## Spin up an in-memory instance.
+
+```
+npm install --save-dev hardhat
+npx hardhat node
+```
+
 ## Install and compile contracts
 
 ```
